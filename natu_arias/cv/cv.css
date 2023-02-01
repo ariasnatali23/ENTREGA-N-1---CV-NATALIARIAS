@@ -1,0 +1,20 @@
+body{
+    background-color: rosybrown;
+}
+div{
+    background-color: paleviole3tred;
+    border: 1px solid black;
+    padding: 13px;
+    width: 50%;
+    margin: 0 auto;
+}
+fieldset{
+    margin-bottom: 20px;
+}
+legend{
+    background-color: oldlace;
+    padding: 6px;
+    border-radius: 22px;
+    font-weight: bold;
+}
+ 
